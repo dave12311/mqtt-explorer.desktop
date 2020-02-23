@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=MQTT Explorer
+GenericName=MQTT Explorer
+Comment=A comprehensive and easy-to-use MQTT Client.
+Exec=yarn --cwd /usr/share/mqtt-explorer start
+Icon=/usr/share/mqtt-explorer/icon
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=MQTT;Explorer;
